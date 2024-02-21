@@ -1,0 +1,57 @@
+{
+    "__JSON__": true,
+    "AUTHOR": "ROYAL",
+    "theme": "ROYAL-MD",
+    "LANGUAGE": "English",
+    "LANGCODE": "en", 
+    "STRINGS": { 
+        "updater": { 
+            "UPDATE": "*Believe it.\nYour bot is already up-to-date*",
+            "NEW_UPDATE": "*it's time to update the bot!*\n\n*Changes:*\n",
+            "UPDATED_LOCAL": "*Successfully Updated!*"
+        },  
+        "global": {      
+            "botName": "ROYAL-MD",
+            "body": "whatsapp User Bot", 
+            "greet2" : "Thanks To HASEEB SER",
+            "pic1": "       ", 
+            "pic2": "       ",  
+            "pic3":  "       ", 
+            "pic4": "       ",  
+            "pic5":  
+            "pic6": 
+            "pic7": 
+            "greet" : "Believe it",
+            "dotbody" : "I decided being Pirate King.",
+            "emojii" : "🍑", 
+            "promote": "Admin Role Given to ROYAL",
+            "pmallow": "*𝑯𝒊𝒊,𝑻𝒉𝒊𝒔 𝒊𝒔 𝑴𝑯 𝑴𝑶𝑫𝑺 𝑶𝑭𝑪 \n 𝑌𝑜𝑢 ℎ𝑎𝑣𝑒 𝑏𝑒𝑒𝑛 𝑏𝑙𝑜𝑐𝑘𝑒𝑑 𝑓𝑜𝑟 𝑠𝑝𝑎𝑚𝑚𝑖𝑛𝑔.\n\n _𝑃𝑜𝑤𝑒𝑟𝑒𝑑 𝑏𝑦 𝑀𝐻 𝑀𝑂𝐷𝑆 𝑂𝐹𝐶_",
+            "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s)._\n\n Join Public Support Group : \nhttps://www.whatsapp.com/channel/0029Va8SjGU1noyxsYBA2K2e\n\n*𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 𝑹𝑶𝒀𝑨𝑳_𝑴𝑫*",
+            "permited": "Hii Sir*\n\n𝑁𝑜𝑤 𝑌𝑜𝑢 𝑎𝑟𝑒 𝑝𝑒𝑟𝑚𝑖𝑡𝑡𝑒𝑑 𝑏𝑦 𝑚𝑦 𝑜𝑤𝑛𝑒𝑟 𝑡𝑜 𝑝𝑚 𝑛𝑜𝑤.\n\n _𝑃𝑜𝑤𝑒𝑟𝑒𝑑 𝑏𝑦 𝑀𝐻 𝑀𝑂𝐷𝑆 𝑂𝐹𝐶_", 
+            "revoked" : "*Hii Sir*\n\nY𝑜𝑢𝑟 𝑝𝑚 𝑝𝑒𝑟𝑚𝑖𝑡 𝑝𝑒𝑟𝑚𝑖𝑠𝑠𝑖𝑜𝑛 ℎ𝑎𝑠 𝑏𝑒𝑒𝑛 𝑝𝑟𝑒𝑣𝑜𝑘𝑒𝑑 𝑛𝑜𝑤.\n\n _𝑃𝑜𝑤𝑒𝑟𝑒𝑑 𝑏𝑦 𝑀𝐻 𝑀𝑂𝐷𝑆 𝑂𝐹𝐶_",
+            "demote": "𝑈ℎℎ,𝐴𝑑𝑚𝑖𝑛 𝑅𝑜𝑙𝑒 𝑇𝑎𝑘𝑒𝑛 𝑏𝑎𝑐𝑘",
+            "antlink": "𝘓𝘪𝘯𝘬 𝘋𝘦𝘵𝘦𝘤𝘵𝘦𝘥.\n*𝘎𝘰𝘰𝘥 𝘉𝘺𝘦 𝘙𝘰𝘶𝘨𝘦 𝘱𝘪𝘳𝘢𝘵𝘦*",
+            "session": "\n*𝘛𝘩𝘪𝘴 𝘪𝘴 𝘺𝘰𝘶𝘳 𝘴𝘦𝘴𝘴𝘪𝘰𝘯.𝘫𝘴𝘰𝘯,𝘬𝘦𝘦𝘱 𝘪𝘵 𝘴𝘢𝘧𝘦 𝘢𝘯𝘥 𝘴𝘵𝘰𝘳𝘦 𝘪𝘵 𝘱𝘳𝘰𝘱𝘦𝘳𝘭𝘺*\n_𝘕𝘰𝘸 𝘜𝘱𝘭𝘰𝘢𝘥 𝘛𝘩𝘪𝘴 𝘫𝘴𝘰𝘯 𝘧𝘪𝘭𝘦 𝘪𝘯 𝘠𝘰𝘶𝘳 𝘍𝘰𝘳𝘬𝘦𝘥 𝘙𝘦𝘱𝘰_\n 𝘊𝘰𝘯𝘯𝘦𝘤𝘵 𝘺𝘰𝘶𝘳 𝘳𝘦𝘱𝘰 𝘵𝘰 𝘏𝘦𝘳𝘰𝘬𝘶 𝘢𝘯𝘥 *𝘋𝘦𝘱𝘭𝘰𝘺 𝘉𝘳𝘢𝘯𝘤𝘩* 𝘢𝘯𝘥 𝘉𝘰𝘵 𝘸𝘪𝘭𝘭 𝘳𝘶𝘯 𝘧𝘰𝘳 𝘈𝘭𝘸𝘢𝘺𝘴\n\n*𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 𝑹𝑶𝒀𝑨𝑳_𝑴𝑫*",
+            "mention": " Please mention My Owner",
+            "title": "ROYAL-MD",
+            "footer": "𝑀𝐻 𝑀𝑂𝐷𝑆 𝑂𝐹𝐶 \n www.youtube.com/c/mhmodsofc",
+            "by": "Made by: MH MODS OFC",
+            "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+            "success": "Done ✓",
+            "dot": "Hi, Did you mean *-help?*\n just.. don't bother me while I'm eating ramen",
+            "couple_male": "*I'm pretty sure I can't live without being helped!*",
+            "couple_female": "*I'm pretty sure I can't live without being helped!*",
+            "admin": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ ɢʀᴏᴜᴘ ᴀᴅᴍɪɴ⚠️!",
+            "botAdmin": "ᴘʟᴇᴀsᴇ ᴘʀᴏᴠɪᴅᴇ ᴍᴇ ᴀᴅᴍɪɴ ʀᴏʟᴇ.❗",
+            "owner": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ ᴍʏ ᴏᴡɴᴇʀ⚠️",
+            "group": "ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ɪs ᴏɴʟʏ ғᴏʀ ɢʀᴏᴜᴘ❗",
+            "private": "ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ɪs ᴏɴʟʏ ғᴏʀ ᴍʏ ᴏᴡɴᴇʀ⚠️",
+            "bot": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ ᴍʏ ᴏᴡɴᴇʀ⚠️",
+            "wait": "ᴘʀᴏᴄᴇssɪɴɢ ʏᴏᴜʀ ʀᴇᴏ̨ᴜᴇsᴛ✅"
+        },
+        "error": {
+            "text": "*You may come to regret trying to manipulate me.\nNow go get this Error fixed*"
+        }
+    } 
+  }
+   
