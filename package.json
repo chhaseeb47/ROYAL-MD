@@ -1,7 +1,7 @@
 
    "name": "royal-md",
    "version": "1.2.8-code",
-   "description": "Multi device whatsapp bot by mh mods ofc.",
+   "description" : "Multi device whatsapp bot by mh mods ofc.",
    "main": "lib/client.js",
    "type": "commonjs",
   
