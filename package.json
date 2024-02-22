@@ -1,7 +1,7 @@
 
    "name": "royal-md",
    "version": "1.2.8-code",
-   "description": "Multi device whatsapp bot by chhaseb47.",
+   "description": "Multi device whatsapp bot by mh mods ofc.",
    "main": "lib/client.js",
    "type": "commonjs",
   
@@ -9,7 +9,7 @@
              "start": "pm2 start lib/client.js --deep-monitoring --attach --name Royal || node lib/client.js",
              "stop": "pm2 stop Royal"             
    },
-   "keywords": ["whatsapp bot md","whatsapp bot","sc bot","sc wa bot","royal md","royal whatsapp bot","Royal md bot","multidevice","baileys bot"],
+   "keywords": ["whatsapp bot md","whatsapp bot","sc bot","sc wa bot","suhail md","suhail whatsapp bot","Suhail md bot","multidevice","baileys bot"],
    "author": "chhaseeb47",
    "license" :"Apache-2.0",
    "dependencies": { 
@@ -69,9 +69,9 @@
    },
    "repository": {
              "type": "git",
-             "url": "git+https://github.com/chhaseeb47/ROYAL-MD.git"
+             "url": "git+https://github.com/chhaseeb47/ROYAL.git"
    },
    "bugs": {
-             "url": "https://github.com/chhaseeb47/ROYAL-MD/issues"
+             "url": "https://github.com/chhaseeb47/ROYAL/issues"
    },
-   "homepage": "https://github.com/chhaseeb47/ROYAL-MD#readme"
+   "homepage": "https://github.com/chhaseeb47/ROYAL-Md#readme"
