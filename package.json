@@ -6,10 +6,10 @@
    "type": "commonjs",
   
    "scripts": {
-             "start": "pm2 start lib/client.js --deep-monitoring --attach --name Royal || node lib/client.js",
-             "stop": "pm2 stop Royal"             
+             "start" : "pm2 start lib/client.js --deep-monitoring --attach --name Royal || node lib/client.js",
+             "stop" : "pm2 stop Royal"             
    },
-   "keywords": ["whatsapp bot md","whatsapp bot","sc bot","sc wa bot","suhail md","suhail whatsapp bot","Suhail md bot","multidevice","baileys bot"],
+   "keywords" : ["whatsapp bot md","whatsapp bot","sc bot","sc wa bot","suhail md","suhail whatsapp bot","Suhail md bot","multidevice","baileys bot"],
    "author": "chhaseeb47",
    "license" :"Apache-2.0",
    "dependencies": { 
